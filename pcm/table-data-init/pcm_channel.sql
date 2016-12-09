@@ -1,0 +1,14 @@
+INSERT INTO `pcm_channel` VALUES ('1', '0', '全渠道', '0', 'admin', '2016-03-17 18:42:35');
+INSERT INTO `pcm_channel` VALUES ('2', 'C7', '天猫分销渠道', '0', 'admin', '2016-03-14 09:10:14');
+INSERT INTO `pcm_channel` VALUES ('3', 'CB', '淘宝全球购', '0', 'admin', '2016-03-14 09:12:18');
+INSERT INTO `pcm_channel` VALUES ('4', 'M4', '有赞', '0', 'admin', '2016-03-13 18:03:06');
+INSERT INTO `pcm_channel` VALUES ('5', 'C1', '云店', '0', 'admin', '2016-03-14 09:09:33');
+INSERT INTO `pcm_channel` VALUES ('6', 'C8', '聚美优品渠道', '0', 'admin', '2016-04-11 18:10:27');
+INSERT INTO `pcm_channel` VALUES ('7', 'C9', '京东渠道', '0', 'admin', '2016-04-11 18:10:39');
+INSERT INTO `pcm_channel` VALUES ('8', 'CA', '天猫爱逛街', '0', 'admin', '2016-03-14 09:11:51');
+INSERT INTO `pcm_channel` VALUES ('9', 'M1', '移动商城渠道', '0', 'admin', '2016-03-14 09:12:49');
+INSERT INTO `pcm_channel` VALUES ('10', 'M2', '微信平台渠道', '0', 'admin', '2016-03-14 09:13:36');
+INSERT INTO `pcm_channel` VALUES ('11', 'M3', '集团APP渠道', '0', 'admin', '2016-03-14 09:15:09');
+INSERT INTO `pcm_channel` VALUES ('12', 'Q1', '大众点评渠道', '0', 'admin', '2016-03-14 09:15:40');
+INSERT INTO `pcm_channel` VALUES ('13', 'Q2', '智慧图BEACON渠道', '0', 'admin', '2016-04-11 18:11:47');
+INSERT INTO `pcm_channel` VALUES ('14', 'X1', '百货店', '0', 'admin', '2016-03-14 09:16:48');
